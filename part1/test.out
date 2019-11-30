@@ -1,0 +1,14 @@
+Url {
+  protocol: 'http:',
+  slashes: true,
+  auth: null,
+  host: 'baidu.com',
+  port: null,
+  hostname: 'baidu.com',
+  hash: null,
+  search: null,
+  query: null,
+  pathname: '/',
+  path: '/',
+  href: 'http://baidu.com/'
+}

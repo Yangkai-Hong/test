@@ -1,0 +1,7 @@
+{"key":"foo", "value":1}
+{"key":"bar", "value":2}
+{"key":"baz", "value":3}
+{"key":"bar","value":"my sweet value"}
+{"key":"bar","value":"my sweet value"}
+{"key":"bar","value":"my sweet value"}
+{"key":"baz","value":null}
